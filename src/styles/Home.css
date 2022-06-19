@@ -1,0 +1,57 @@
+.sosmed {
+  width: 25px;
+  height: 25px;
+  margin: 8px;
+}
+.img-keunggulan {
+  width: 25px;
+  height: 25px;
+}
+.btn-methode {
+  background-color: rgb(192, 233, 233);
+  width: 50px;
+}
+.btn-paper {
+  background-color: rgb(233, 192, 194);
+  width: 50px;
+}
+.btn-shield {
+  background-color: rgb(211, 192, 233);
+  width: 50px;
+}
+.btn-vector {
+  background-color: rgb(210, 192, 233);
+  width: 50px;
+}
+.btn-dollar {
+  background-color: rgb(196, 192, 233);
+  width: 50px;
+}
+.color-text {
+  color: blue;
+}
+.form-email {
+  width: 400px;
+  height: 60px;
+}
+.btn-submit {
+  width: 150px;
+  background-color: rgb(247, 102, 18);
+  color: white;
+}
+.bg-img {
+  width: auto;
+  height: 600px;
+}
+.blur {
+  background: rgba(14, 14, 99, 0.613);
+}
+.bordered {
+  width: 100px;
+  height: 23px;
+  color: #0d6efd;
+  border-bottom: solid 4px;
+}
+.Yearly-Montly {
+  margin-left: 120px;
+}
